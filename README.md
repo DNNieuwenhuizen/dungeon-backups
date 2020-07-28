@@ -5,7 +5,7 @@ Since Minecraft Dungeons can randomly crash which sometimes causes your characte
 
 ## Running the script
 1. Download the file and place it wherever you want.
-2. Whenever you want to play Minecraft Dungeons. Right click the file and select "Run with Powershell", which launches the game and makes backups. (_Don't close the powershell application if you want it to work_**)
+2. Whenever you want to play Minecraft Dungeons. Right click the file and select "Run with Powershell", which launches the game and makes backups. (**_Don't close the powershell application if you want it to work_**)
 
 ## Restoring a character
 1. Press windows key + r  

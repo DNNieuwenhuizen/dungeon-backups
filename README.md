@@ -9,7 +9,7 @@ Since Minecraft Dungeons can randomly crash which sometimes causes your characte
 
 ## Restoring a character
 1. Press windows key + r  
-2  Insert the following: "%HOMEPATH%\Saved Games\Minecraft Dungeons Backups"
+2.  Insert the following: "%HOMEPATH%\Saved Games\Minecraft Dungeons Backups"
 3. Press enter
 4. Pick a backup you want to use.
 5. Copy the folder inside the backup folder
